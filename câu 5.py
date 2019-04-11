@@ -1,4 +1,4 @@
-a=" hello gay"
+a=" hello guys"
 def say():
     global a
     a=" vinh university"
